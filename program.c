@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define SIZE 10
+#define SIZE 20
 
 char buffer[SIZE];
 int head = 0;
