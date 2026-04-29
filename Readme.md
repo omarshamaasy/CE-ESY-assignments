@@ -10,7 +10,7 @@ Assignment1-Circular Buffer
 •	لمعرفة عدد العناصر الموجودة :count
 
 الدوال المستخدمة (التوابع):
-الوظيفة	الدالة
+
 تهيئة المخازن وتصفير المؤشرات	Init()
 فحص اذا كان المخزن ممتلئ	isFull()
 فحص اذا كان المخزن فارغ	isEmpty()
@@ -20,7 +20,7 @@ Assignment1-Circular Buffer
 طريقة التشغيل :
 1-	يمكن عمل run  بشكل طبيعي
 2-	gcc program.c -o program ثم ./program 
-ادخل اسمك , سيفوم البرنامج بإضافة اللاحقة CE-ESY ثم سيقرأه ويطبعه ويخزنه في المخزن .
+ادخل الااسم , سيفوم البرنامج بإضافة اللاحقة CE-ESY ثم سيقرأه ويطبعه ويخزنه في المخزن .
 
 
 الاختبار :
@@ -42,17 +42,17 @@ Enter your name : omarshamaa
 The full text is : omarshamaa CE-ESY 
 text size = 8 
 text length = 17 
-write every letter in bufferBuffer overFlow! cant add 'a' 
+write every letter in buffer
+Buffer overFlow! cant add 'a' 
 Buffer overFlow! cant add 'a' 
 Buffer overFlow! cant add ' ' 
 Buffer overFlow! cant add 'C'' 
 Buffer overFlow! cant add 'E'' 
-Buffer overFlow! cant add ' ' 
+Buffer overFlow! cant add '-' 
 Buffer overFlow! cant add 'E' 
 Buffer overFlow! cant add 'S' 
 Buffer overFlow! cant add 'Y' 
-Read from buffer :
-omarsham
+Read from buffer :omarsham
 
 
 
